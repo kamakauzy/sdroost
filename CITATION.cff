@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: SDRoost
+message: If you use these models, please cite this repository.
+type: software
+authors:
+  - family-names: Causey
+    given-names: Brad
+    alias: kamakauzy
+repository-code: "https://github.com/kamakauzy/sdroost"
+url: "https://github.com/kamakauzy/sdroost"
+license: CC-BY-SA-4.0
+version: "1.0"
+date-released: "2026-11-25"
+abstract: >-
+  3D-printable folding field stand, laptop-lid perch, and phone nest
+  for the RTL-SDR Blog V4 and Airspy Mini, with a shared bolt-on
+  antenna mast for ham radio and field SDR use.
+keywords:
+  - RTL-SDR
+  - RTL-SDR Blog V4
+  - Airspy Mini
+  - software-defined radio
+  - 3D printing
+  - OpenSCAD
+  - ham radio
+  - amateur radio
+  - antenna mount
+  - PETG
